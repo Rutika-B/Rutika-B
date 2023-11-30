@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rutika Bhuimbar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 
 
@@ -7,9 +7,9 @@
 
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WsrWq8LAN_Ld6uqhEtUQavor8zIF4ASm/view?usp=drive_link](https://drive.google.com/file/d/1WsrWq8LAN_Ld6uqhEtUQavor8zIF4ASm/view?usp=drive_link)
 
-- ⚡ Fun fact **Bathroom Singer, dancing in front of mirror**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
